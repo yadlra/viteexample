@@ -1,0 +1,31 @@
+body {
+  background-color: #f0f0f0;
+}
+
+.counter {
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.fancy-button {
+  background: linear-gradient(45deg, #FE6B8B 30%, #660ed9 90%);
+  border: 0;
+  border-radius: 3px;
+  color: white;
+  padding: 10px 20px;
+  margin: 10px;
+}
+
+.card {
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
